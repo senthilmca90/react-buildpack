@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-buildpack/static/css/main.43fd19e4.chunk.css",
+  "main.js": "/react-buildpack/static/js/main.d90e5afb.chunk.js",
+  "main.js.map": "/react-buildpack/static/js/main.d90e5afb.chunk.js.map",
+  "runtime~main.js": "/react-buildpack/static/js/runtime~main.15ef6aab.js",
+  "runtime~main.js.map": "/react-buildpack/static/js/runtime~main.15ef6aab.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/react-buildpack/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/react-buildpack/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/react-buildpack/index.html",
+  "precache-manifest.7d74ca62388b8f0b28eb26da84640ad7.js": "/react-buildpack/precache-manifest.7d74ca62388b8f0b28eb26da84640ad7.js",
+  "service-worker.js": "/react-buildpack/service-worker.js",
+  "static/css/main.43fd19e4.chunk.css.map": "/react-buildpack/static/css/main.43fd19e4.chunk.css.map",
+  "static/media/logo.svg": "/react-buildpack/static/media/logo.5d5d9eef.svg"
+}
